@@ -55,9 +55,9 @@ You'll want to use your Terminal (macOS and Linux) or PowerShell (Windows) for t
 
 First, of course, `cd` into a directory where you want to clone the source to.
 
-Next, clone the git.
+Next, clone the git and enter it's directory.
 
-`git clone https://github.com/dangeredwolf/ModernDeck.git`
+`git clone https://github.com/dangeredwolf/ModernDeck.git && cd ModernDeck`
 
 Finally, install all the necessary NPM dependencies
 
